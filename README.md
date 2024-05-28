@@ -1,0 +1,2 @@
+# A Travel Website
+I developed a dynamic website designed to collect user data for trip planning. The site features a user-friendly form where travelers can input their trip details. The front end is crafted with HTML, CSS, and JavaScript, ensuring a seamless user experience, while the back end is powered by PHP and MySQL for efficient data storage and management. This project showcases my skills in both front-end and back-end web development.
